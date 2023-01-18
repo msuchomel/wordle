@@ -1,0 +1,20 @@
+
+not_common_words = ['agria','ascry','ahura','aurae','alala','akala','abask','adoxa','ashur',
+                    'bahan','bahur','brach','bulla','balli','beisa','bukat','boule',
+                    'clawk','chack','chaco','chais','chawk','cauch','cequi','chaka','catha','chaga','chaya','cacam','crome','canna','caggy','caffa','cauda','caama','cahiz','cumar','cyath',
+                    'datch','dogra','deism','difda',
+                    'fulwa',
+                    'goala','gatch','gebur',
+                    'haloa','harpa','habab',
+                    'khass','khoja','khaja','kahar','kyack','keach',
+                    'lache','larch',
+                    'myall','mulla'
+                    'nasch',
+                    'ootid',
+                    'peart','pohna','pichi','punct',
+                    'rakan',
+                    'shaku','scaup','sulla','swack','sowel',
+                    'vlach',
+                    'whank','whauk','warua','waasi','waapa','whame','whewl','whaur','whand',
+                    'zosma',
+                    ]
